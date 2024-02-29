@@ -29,7 +29,7 @@ public class OpenWeatherMapClient {
 
     private static final Random random = new Random();
 
-    private static final String APP_KEY = "763d8bb819e1b0fb58c8385ddd26856e";
+    private static final String APP_KEY = "d16ff56a73497c784b4d21e38d88f7c8";
 
     private static final String DEFAULT = "ShenZhen,CN";
 
